@@ -1,2 +1,2 @@
 # miniBus
-FizzBuzz one-liner
+FizzBuzz two-liner
